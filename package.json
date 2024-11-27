@@ -1,6 +1,6 @@
 {
-    "name": "alto",
-    "description": "A Ghost theme",
+    "name": "palo-alto",
+    "description": "A Ghost theme - Modified for Cardinal Healthcare Foundation",
     "version": "1.0.0",
     "private": true,
     "engines": {
